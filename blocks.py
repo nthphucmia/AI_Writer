@@ -3,6 +3,7 @@ import torch
 import torch.nn as nn 
 
 """
+Author: Nguyen Thi Hong 
 Tutorial: https://www.tensorflow.org/text/tutorials/transformer
 """
 
